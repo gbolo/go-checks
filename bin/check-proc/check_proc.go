@@ -1,11 +1,12 @@
 package main
 
 import (
-	"github.com/gbolo/go-checks/lib/ps"
 	"fmt"
+	"os"
+
+	"github.com/gbolo/go-checks/lib/ps"
 	"github.com/jessevdk/go-flags"
 	"github.com/mackerelio/checkers"
-	"os"
 )
 
 
